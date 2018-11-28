@@ -1,8 +1,8 @@
 Calculator Using PHPUnit
 
-What is Calculator?
+What is Calculator Project?
 
-Calculator is a simple calculator that supports basic arithmetical operations (For now considered only addition operation is considered i.e add or sum). Unit testing is performed using Phpunit. 
+Calculator Porject is a simple calculator that supports basic arithmetical operations (For now considered only addition operation i.e add or sum). Unit testing is performed using Phpunit. 
 
 This sample demonstrates the following features:
 
@@ -12,9 +12,9 @@ This sample demonstrates the following features:
     Coding style PSR2
 
 Requirements
-Since this project to developed to performed unit testing using Phpunit, it is prerequisite to install Php 7
+Since this project was developed to performed unit testing using Phpunit, it is prerequisite to install Php 7
 
-Follow these before you run the sample:
+Follow these steps before you run the sample:
 
     Git clone repository https://github.com/sonishikha/Calculator in your php document root directory.
     Install Composer
@@ -23,7 +23,7 @@ Follow these before you run the sample:
 Getting Started
 
     To make calculator work, in the terminal go to the folder where you have cloned the project.
-    Type in following command to test calculator functionality:
+    Type in the following command to test calculator functionality:
         php calculator.php sum 2,3
      Note: Have covered only addition operation senario for now.
    
